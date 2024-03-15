@@ -10,15 +10,15 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-Churn is high when Monthly Charges ar high.
-Surprising insight : as higher Churn at lower Total Charges
-However if we combine the insights of 3 parameters i.e. Tenure, Monthly Charges & Total Charges then the picture is bit clear Higher Monthly Charge at lower tenure results into lower Total Charge. Hence, all these 3 factors Higher Monthly Charge, Lower tenure and Lower Total Charge are linked to High Churn.
-HIGH Churn seen in case of Month to month contracts, No online security, No Tech support, First year of subscription and Fibre Optics Internet
-LOW Churn is seens in case of Long term contracts, Subscriptions without internet service and The customers engaged for 5+ years
-Factors like Gender, Availability of PhoneService and # of multiple lines have alomost NO impact on Churn
-Electronic check medium are the highest churners
-Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
-No Online security, No Tech Support category are high churners
-Non senior Citizens are high churners
+- Churn is high when Monthly Charges ar high.
+- Surprising insight : as higher Churn at lower Total Charges
+- However if we combine the insights of 3 parameters i.e. Tenure, Monthly Charges & Total Charges then the picture is bit clear Higher Monthly Charge at lower tenure results into lower Total Charge. Hence, all these 3 factors Higher Monthly Charge, Lower tenure and Lower Total Charge are linked to High Churn.
+- HIGH Churn seen in case of Month to month contracts, No online security, No Tech support, First year of subscription and Fibre Optics Internet
+- LOW Churn is seens in case of Long term contracts, Subscriptions without internet service and The customers engaged for 5+ years
+- Factors like Gender, Availability of PhoneService and # of multiple lines have alomost NO impact on Churn
+- Electronic check medium are the highest churners
+- Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
+- No Online security, No Tech Support category are high churners
+- Non senior Citizens are high churners
 
 
